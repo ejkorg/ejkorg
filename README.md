@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Java, python, js, ts, react, vuejs
+- 🌱 I’m currently learning Java, python, js, ts, react, vuejs, nextjs
 - 👯 I’m looking to collaborate on fullstack web development
-- 🤔 I’m looking for help with Java, python, js, ts, react, vuejs
+- 🤔 I’m looking for help with Java, python, js, ts, react, vuejs, nextjs
   
 
